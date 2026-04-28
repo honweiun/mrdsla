@@ -1,6 +1,6 @@
 # 最近更新 - 今日大赛-每日大赛每日大赛聚集地
-[
-## ☞ 每日大赛电脑版官网：https://www.mrdasaila.cloud](https://www.mrdasaila.cloud)
+
+## ☞ 每日大赛电脑版官网：[https://www.mrdasaila.cloud](https://www.mrdasaila.cloud)
 **[每日大赛电脑版，专业竞技桌面平台](https://www.mrdasaila.cloud)**  
 专为PC用户打造的大屏竞技体验，键盘鼠标精准操控，超清画质沉浸观赛，释放桌面端全部性能。
 
